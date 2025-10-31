@@ -1,8 +1,8 @@
 # Hi there, I'm Pradeep 👋
 
-![Profile Banner](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
-## 🌈 About Me
+
+## About Me
 - 🔭 I’m currently working on Data Engineering projects
 - 🌱 I’m learning Python, SQL, Git & Cloud
 - 👯 I’m looking to collaborate on open source projects
