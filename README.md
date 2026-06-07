@@ -1,90 +1,122 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand" />
-  Hey there, I'm Pradeep K
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B0F19,35:FF3621,70:29B5E8,100:0B0F19&text=Pradeep%20K&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Data%20Engineer%20%7C%20Cloud%20Data%20Platforms%20%7C%20AI%20Builder&descSize=18&descAlignY=58&animation=fadeIn" alt="Profile banner" />
+</p>
 
 <h3 align="center">
-  🚀 Data Engineer | AWS Certified | Databricks Certified | GitHub Certified | AI Engineer
+  🔴 Databricks-inspired Data Engineer | ❄️ Snowflake Builder | ☁️ AWS Certified | 🤖 AI Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Engineer+with+3.6%2B+Years+Experience;PySpark+%7C+Snowflake+%7C+Databricks+%7C+AWS;Building+Scalable+Data+Platforms;Generative+AI+%7C+RAG+%7C+LangChain;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=25&pause=900&color=FF3621&center=true&vCenter=true&width=950&lines=Building+Scalable+ETL+and+ELT+Pipelines;PySpark+%7C+Databricks+%7C+Snowflake+%7C+AWS;Turning+Raw+Data+into+Business+Value;Generative+AI+%7C+RAG+%7C+LangChain;Learn+%E2%86%92+Build+%E2%86%92+Optimize+%E2%86%92+Repeat" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pradeep-k-197a131b6/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/pradeep-k-197a131b6/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Pradeep421">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/Pradeep421" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Pradeep421&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Engineering-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Data Engineering" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GenAI-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="GenAI" />
 </p>
 
 ---
 
-<img align="right" alt="Coding animation" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-## 💫 About Me
-
-- 🔹 Data Engineer with **3.6+ years of experience**
-- 🔹 Designing scalable **ETL and ELT pipelines**
-- 🔹 Processing **TB-scale datasets** using PySpark and Databricks
-- 🔹 Building cloud-native data platforms on AWS
-- 🔹 Experienced in Snowflake, Airflow, Terraform, and Data Warehousing
-- 🔹 Exploring **Generative AI, RAG, Agentic AI, and LLM applications**
-- 🔹 Passionate about turning raw data into business insights
-- 🔹 Always learning, building, and iterating 🚀
+<table>
+  <tr>
+    <td width="58%">
+      <h2>💫 About Me</h2>
+      <p>I build modern data platforms that move from raw ingestion to clean, trusted, analytics-ready data.</p>
+      <ul>
+        <li>🔥 <b>3.6+ years</b> of Data Engineering experience</li>
+        <li>🔥 Designing scalable <b>ETL and ELT pipelines</b></li>
+        <li>🔥 Processing <b>TB-scale datasets</b> with PySpark and Databricks</li>
+        <li>🔥 Building AWS-native data workflows and automation</li>
+        <li>🔥 Working across Snowflake, Airflow, Terraform, SQL, and Data Warehousing</li>
+        <li>🔥 Exploring <b>Generative AI, RAG, Agentic AI, and LLM apps</b></li>
+        <li>🔥 Iterating every day: learn, build, measure, optimize, repeat</li>
+      </ul>
+    </td>
+    <td width="42%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Coding animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## ⚡ Tech Arsenal
+## ⚡ Tech Stack
 
-### 🚀 Data Engineering
+### 🔴 Data Engineering Core
 
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-0B0F19?style=for-the-badge&logo=apache-spark&logoColor=FF3621)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### ☁️ Cloud and DevOps
+### ☁️ Cloud, DevOps, and Warehousing
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-1F8A3B?style=for-the-badge&logo=amazons3&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0B0F19?style=for-the-badge&logo=github-actions&logoColor=29B5E8)
 
-### 💻 Programming
+### 💻 Programming and Querying
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-101826?style=for-the-badge&logo=python&logoColor=FFD43B)
+![SQL](https://img.shields.io/badge/SQL-29B5E8?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF3621?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🤖 AI and GenAI
 
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-0B0F19?style=for-the-badge&logo=chainlink&logoColor=00A67E)
 ![RAG](https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-FF1493?style=for-the-badge)
 
 ---
 
+## 🧱 Data Platform Flow
+
+```mermaid
+flowchart LR
+    A["Raw Data"] --> B["AWS S3 / Landing Zone"]
+    B --> C["Glue / PySpark"]
+    C --> D["Databricks Lakehouse"]
+    D --> E["Snowflake Warehouse"]
+    E --> F["Analytics and AI Apps"]
+
+    style A fill:#0B0F19,stroke:#FF3621,color:#FFFFFF
+    style B fill:#101826,stroke:#FF9900,color:#FFFFFF
+    style C fill:#101826,stroke:#FF3621,color:#FFFFFF
+    style D fill:#FF3621,stroke:#FFFFFF,color:#FFFFFF
+    style E fill:#29B5E8,stroke:#FFFFFF,color:#0B0F19
+    style F fill:#8A2BE2,stroke:#FFFFFF,color:#FFFFFF
+```
+
+---
+
 ## 🏆 Certifications
 
-- 🏅 AWS Certified Cloud Practitioner
-- 🏅 Databricks Certified Associate Developer
-- 🏅 GitHub Foundations
-- 🏅 Generative AI
-- 🏅 Generative AI Powered Coding Assistance
+| Cloud and Data | AI and Developer |
+| --- | --- |
+| 🏅 AWS Certified Cloud Practitioner | 🏅 Generative AI |
+| 🏅 Databricks Certified Associate | 🏅 Generative AI Powered Coding Assistance |
+| 🏅 GitHub Foundations | 🏅 Continuous Learning |
 
 ---
 
 ## 📈 Career Highlights
 
-- ✨ 3.6+ years of Data Engineering experience
 - ✨ Built ETL pipelines processing TB-scale datasets
 - ✨ Developed enterprise-grade PySpark and Databricks solutions
 - ✨ Improved AWS Glue job performance by **20%**
@@ -94,15 +126,21 @@
 
 ---
 
-## 🔁 Iterative Learning Loop
+## 🔁 Iterative Engineering Mindset
 
 ```mermaid
 flowchart LR
-    A["Learn"] --> B["Build"]
-    B --> C["Measure"]
-    C --> D["Optimize"]
-    D --> E["Share"]
-    E --> A
+    L["Learn"] --> B["Build"]
+    B --> M["Measure"]
+    M --> O["Optimize"]
+    O --> S["Share"]
+    S --> L
+
+    style L fill:#0B0F19,stroke:#FF3621,color:#FFFFFF
+    style B fill:#FF3621,stroke:#FFFFFF,color:#FFFFFF
+    style M fill:#101826,stroke:#29B5E8,color:#FFFFFF
+    style O fill:#29B5E8,stroke:#FFFFFF,color:#0B0F19
+    style S fill:#8A2BE2,stroke:#FFFFFF,color:#FFFFFF
 ```
 
 ---
@@ -110,28 +148,32 @@ flowchart LR
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pradeep421&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep421&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pradeep421&show_icons=true&theme=radical&bg_color=0B0F19&title_color=FF3621&text_color=FFFFFF&icon_color=29B5E8&border_color=FF3621" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep421&layout=compact&theme=radical&bg_color=0B0F19&title_color=29B5E8&text_color=FFFFFF&border_color=29B5E8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pradeep421&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Pradeep421&theme=dark&background=0B0F19&ring=FF3621&fire=FF3621&currStreakLabel=29B5E8&border=FF3621" alt="GitHub streak" />
 </p>
 
 ---
 
 ## 🎯 2026 Goals
 
-- ✅ Master advanced Data Engineering
-- ✅ Build end-to-end AI applications
-- ✅ Contribute to open source
-- ✅ Achieve advanced cloud certifications
-- ✅ Become a Data and AI Platform Architect
+| Goal | Focus |
+| --- | --- |
+| ✅ Master Advanced Data Engineering | Scalable pipelines, optimization, lakehouse patterns |
+| ✅ Build End-to-End AI Applications | RAG, LLM apps, agentic workflows |
+| ✅ Contribute to Open Source | Data and AI ecosystem |
+| ✅ Achieve Advanced Cloud Certifications | AWS, Databricks, Snowflake |
+| ✅ Become a Data and AI Platform Architect | Architecture, reliability, business impact |
 
 ---
 
-<h3 align="center">💡 "Data is valuable only when transformed into actionable insights."</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0B0F19,45:FF3621,100:29B5E8&text=Data%20is%20valuable%20only%20when%20transformed%20into%20actionable%20insights.&fontColor=FFFFFF&fontSize=18&animation=twinkling" alt="Quote banner" />
+</p>
 
 <p align="center">
-  ⭐ If you like my work, feel free to star my repositories and connect with me!
+  <b>⭐ If you like my work, feel free to star my repositories and connect with me!</b>
 </p>
